@@ -1,2 +1,0 @@
-i am an devops trainee
- now lets check weather it shows us the changes that we made. 
